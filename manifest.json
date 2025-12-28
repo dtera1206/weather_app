@@ -7,12 +7,12 @@
   "theme_color": "#06283D",
   "icons": [
     {
-      "src": "image_weather/cloud.png",
+      "src": "Image_weather/cloud.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "image_weathercloud.png",
+      "src": "Image_weathercloud.png",
       "sizes": "512x512",
       "type": "image/png"
     }
