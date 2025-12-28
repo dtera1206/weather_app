@@ -12,7 +12,7 @@
       "type": "image/png"
     },
     {
-      "src": "images/sunny.png",
+      "src": "image_weather/cloud.png",
       "sizes": "512x512",
       "type": "image/png"
     }
